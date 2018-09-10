@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Drag and Drop</string>
+
+    <item name="text1" type="id"/>
+
+    <item name="layout3" type="id"/>
+
+    <item name="info" type="id"/>
+
+    <item name="band1" type="id"/>
+
+    <item name="band2" type="id"/>
+
+    <item name="band3" type="id"/>
+
+    <item name="band4" type="id"/>
+
+    <item name="band5" type="id"/>
+
+    <item name="text2" type="id"/>
+
+    <item name="col0" type="id"/>
+
+    <item name="col1" type="id"/>
+
+    <item name="col2" type="id"/>
+
+    <item name="col3" type="id"/>
+
+    <item name="col4" type="id"/>
+
+    <item name="col5" type="id"/>
+
+    <item name="col6" type="id"/>
+
+    <item name="col7" type="id"/>
+
+    <item name="col8" type="id"/>
+
+    <item name="col9" type="id"/>
+
+    <item name="col10" type="id"/>
+
+    <item name="col11" type="id"/>
+
+</resources>
