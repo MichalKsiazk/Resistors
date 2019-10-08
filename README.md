@@ -3,4 +3,4 @@ android resistance calculator with simplified ux
 
 
 DEMO
-![demo](demo/ready-demo.gif | width=48)
+![demo](demo/ready-demo.gif)
